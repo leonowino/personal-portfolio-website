@@ -1,0 +1,63 @@
+body{
+    background-color: rgb(37, 35, 35);
+}
+
+#gridthree{
+    background-color: rgb(37, 35, 35);
+    text-align: center;
+}
+#picture{
+    height: 500px;
+    width: 400px;
+    border: outset;
+    border-radius: 10px;
+}
+#personal-items{
+    display: flex;
+}
+p, h1, h2, h3, h4, h5{
+    color: white;
+    font-family: serif;
+}
+#list{
+    color: white;
+}
+#name{
+    font-weight: bold;
+}
+#ptext{
+    text-align: center;
+    padding-top: 80px;
+    
+}
+#lifetext:first-letter{
+    font-size: 200%;
+}
+#othertext:first-letter{
+    font-size: 150%;
+}
+#footer{
+    text-align: center;
+}
+#web{
+    color: brown;
+}
+#titlename{
+    color: brown;
+    font-size: 200%;
+}
+#button{
+    background-color: brown;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 15px;
+    text-decoration: none;
+}
+#link{
+    text-decoration: none;
+    color: white;
+}
+ul{
+    list-style-type: circle;
+}
