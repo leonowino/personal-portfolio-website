@@ -62,8 +62,7 @@ ul{
     list-style-type: circle;
 }
 #project-link{
-    text-decoration: none;
-    color: white;
+    color: brown;
 }
 #bullet{
     color: white;
